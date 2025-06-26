@@ -2,7 +2,7 @@ translate spanish strings:
 
     # game/code/hints.rpy:5
     old "Unlocks dates with Amore."
-    new "Desbloquea citas con Amore."
+    new "Desbloquea las citas con Amore."
 
     # game/code/hints.rpy:5
     old "No dates with Amore."
